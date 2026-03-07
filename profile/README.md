@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+[![Discord](https://img.shields.io/discord/1479703022266220714?color=5865F2&logo=discord&logoColor=white&label=Discord)](https://discord.gg/eP9b5NgZ2y)
