@@ -1,0 +1,6 @@
+{
+  "name": "BugBot",
+  "description": "Runs BugBot on pull requests to review code for bugs",
+  "iconName": "octicon bug",
+  "categories": ["Code Review", "Automation"]
+}
