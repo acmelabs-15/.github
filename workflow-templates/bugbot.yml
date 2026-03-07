@@ -1,4 +1,4 @@
-name: Claude BugBot
+name: BugBot
 
 on:
   pull_request:
