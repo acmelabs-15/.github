@@ -1,19 +1,10 @@
-name: Claude BugBot
-
+name: Code Review
 on:
   pull_request:
     types: [opened, synchronize]
 
-permissions:
-  contents: read
-  pull-requests: write
-
 jobs:
   bugbot:
-    runs-on: ubuntu-latest
-    if: github.actor != 'dependabot[bot]'
-    steps:
-      - uses: actions/checkout@v4
-      - uses: rekpero/claude-bugbot-github-action@main
-        with:
-          claude-setup-token: ${{ secrets.CLAUDE_SETUP_TOKEN }}
+    uses: your-org/.github/.github/workflows/bugbot.yml@main
+    secrets:
+      CLAUDE_SETUP_TOKEN: ${{ secrets.CLAUDE_SETUP_TOKEN }}
