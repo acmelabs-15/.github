@@ -1,4 +1,4 @@
-## Hi there 👋
+## Are you pondering what I'm pondering?
 
 <!--
 
