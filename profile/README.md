@@ -1,4 +1,4 @@
-## Are you pondering what I'm pondering?
+## I think so, Brain, but why does a forklift have to be so big if all it does is lift forks?
 
 <!--
 
